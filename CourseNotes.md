@@ -7,8 +7,6 @@ title: "Real Analysis"
 This are notes from the Fall 2019 Qualifying Exam course for Real Analysis at the University of Georgia, taught by Professor Neil Lyall. These were typeset live during each class. If you find any mistakes or errors, please let me know! Moreover, these may not always reflect exactly what was said or covered in the course -- I've paraphrased some things, rephrased others, left out a few bits of more complicated proofs, and added content here and there.
 
 
-!include Review/AnalysisSyllabus.md
-
 !include sections/Summary.md
 
 !include sections/DiscussionNotes.md
